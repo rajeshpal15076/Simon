@@ -1,0 +1,53 @@
+body {
+  text-align: center;
+}
+
+.head {
+  display: flex;
+  justify-content: center;
+}
+/*
+.head2{
+  margin-left: 5rem;
+} */
+#Score {
+  margin-right: -27rem;
+  margin-left: 15rem;
+}
+.btn {
+  height: 180px;
+  width: 180px;
+  border-radius: 20%;
+  border: 10px solid black;
+  margin: 2rem;
+  cursor: pointer;
+}
+
+.btn-container {
+  display: flex;
+  justify-content: center;
+}
+
+.red {
+  background-color: red;
+}
+
+.yellow {
+  background-color: yellow;
+}
+
+.green {
+  background-color: green;
+}
+
+.blue {
+  background-color: blue;
+}
+
+.gameFlash {
+  background-color: white;
+}
+
+.userFlash {
+  background-color: black;
+}
